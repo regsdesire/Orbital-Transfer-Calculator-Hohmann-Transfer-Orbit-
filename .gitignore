@@ -1,0 +1,40 @@
+# =========================
+# PYTHON EXCLUSIONS
+# =========================
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# =========================
+# C / C++ EXCLUSIONS
+# =========================
+# Object files (created during the compilation process)
+*.o
+*.ko
+*.obj
+*.elf
+
+# Compiled executables (you only want to upload the source code, not the built app)
+*.exe
+*.out
+*.app
+
+# Shared libraries (if you compile your C code into a library for Python to read)
+*.so
+*.dylib
+*.dll
+
+# =========================
+# OS / EDITOR EXCLUSIONS
+# =========================
+.DS_Store
+.vscode/
+.idea/
