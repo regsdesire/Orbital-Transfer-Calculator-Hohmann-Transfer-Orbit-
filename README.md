@@ -1,7 +1,8 @@
 # Orbital-Transfer-Calculator-Hohmann-Transfer-Orbit-
 
-This project is an orbital velocity calculator & orbital mechanics simulator utilising Math / Physics that I am currently learning
-The calculator works by integrating python code (which handles the user input and shell of the program) with the C code (which handles the calculations and core of the program)
+This project is an orbital velocity calculator & orbital mechanics simulator utilising Math / Physics that I am currently learning.
+
+The calculator works by integrating python code (which handles the user input and shell of the program) with the C code (which handles the calculations and core of the program).
 
 
 
